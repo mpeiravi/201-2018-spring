@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+CSE 201 Intro to Computer Science I
 
-You can use the [editor on GitHub](https://github.com/mpeiravi/201-2018-spring/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Monday Lab Students: final exam will be held on Monday, June 12.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Peer Lab Sessions:
+Date 	Time 	Location 	Topics 	Extra Credit
+May 12 	1:30 - 3:20 	JB 360 	Functions, Arrays, Searching, Sorting 	10 points
+May 18 	3:00 - 4:50 	JB 360 	Functions, Arrays, Searching, Sorting 	10 points
+May 26 	1:30 - 3:20 	JB 360 	Vectors, Classes 	10 points
+Jun 1 	3:00 - 4:50 	JB 360 	Vectors, Classes 	10 points
 
-### Markdown
+Max 10 points extra credit given for the same topics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpeiravi/201-2018-spring/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Meeting 	Reading/Lecture 	Activity
+1 	Syllabus
+Overview 	A1 Command Line
+2 	Basics
+Conditions
+Streams 	A2 Conditions
+3 	Functions 	A3 Functions
+4 	Loops
+Constants 	A4 Loops
+5 	Arrays 	A5 Arrays
+6 	Searching
+Sorting 	A6 Searching and Sorting
+7 	Classes 	A7 Classes
+8 	Vectors 	A8 Vectors
+9 	Application Development 	A9 Application Development
+10 	Final Exam 	A10 Final Exam
